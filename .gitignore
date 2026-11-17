@@ -1,0 +1,7 @@
+.env
+*.cap
+*.pcap
+*.hccapx
+*.hc22000
+__pycache__/
+*.log
